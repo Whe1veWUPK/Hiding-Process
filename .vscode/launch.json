@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Documents/Related/Junior Year I/Operating System Practice/Practice 1/Hiding-Process",
-      "program": "d:/Documents/Related/Junior Year I/Operating System Practice/Practice 1/Hiding-Process/build/Debug/outDebug",
+      "cwd": "e:/Documents/Related/Junior Year I/Operating System Practice/Practice 1/Hiding-Process",
+      "program": "e:/Documents/Related/Junior Year I/Operating System Practice/Practice 1/Hiding-Process/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
